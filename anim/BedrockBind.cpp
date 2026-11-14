@@ -1,0 +1,1 @@
+mcpe animation controller bind
